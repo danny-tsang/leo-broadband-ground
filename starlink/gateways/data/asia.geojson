@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamaguchi, Yamaguchi, Japan",
+        "description": "https://www.reddit.com/r/Starlink/comments/x1v6hy/three_gateways_in_japanservice_starting_soon/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.555709, 34.217105, 0.0]
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Hitachinaka, Ibaraki, Japan",
+            "description": "https://www.reddit.com/r/Starlink/comments/x1v6hy/three_gateways_in_japanservice_starting_soon/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [140.613739, 36.386742, 0.0]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Akita, Akita, Japan",
+            "description": "https://www.reddit.com/r/Starlink/comments/x1v6hy/three_gateways_in_japanservice_starting_soon/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [140.064702, 39.638317, 0.0]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Otaru, Hokkaido, Japan",
+            "description": "https://www.reddit.com/r/Starlink/comments/yu3d4j/japans_4th_gateway_confirmed/"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [141.258373, 43.173215, 0.0]
+        }
+    }
+  ]
+}

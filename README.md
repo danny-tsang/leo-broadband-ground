@@ -1,2 +1,2 @@
-# starlink-ground-info
-Starlink ground data for researchers.
+# Low Earth orbit (LEO) broadband satellite ground infrastructure data
+The purpose of this repository is to provide a comprehensive list of LEO broadband satellite ground infrastructure data to the public, such as gateways / ground stations, points of presence, etc. This repository is a work in progress and will be updated regularly.

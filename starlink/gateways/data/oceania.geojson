@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broken Hill, NSW gateway",
+        "description": "Antenna count: 8<br>Antenna diameter:\u00a01.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br>https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.441058, -31.998258, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pimba, SA gateway",
+        "description": "Antenna count: 8<br>Antenna diameter:\u00a01.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br>https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.801335, -31.250747, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boorowa, NSW gateway",
+        "description": "Antenna count: 8<br>Antenna diameter:\u00a01.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br>https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021789<br><br>Photo:\u00a0https://www.abc.net.au/news/2021-02-12/starlink-australia-price-availability-revealed/13144262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148.705734, -34.462093, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wagin, WA gateway",
+        "description": "Antenna count: 8<br>Antenna diameter:\u00a01.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total ( 27.9-29.5, 29.75-30.25 GHz)<br>Downlink: 1.25 GHz total (18.175-18.925, 19.05-19.55 GHz)<br>Date filed: 2020-10-30<br><br>https://web.acma.gov.au/rrl/site_search.site_lookup?pSITE_ID=10021790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.343372, -33.308268, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Awarua gateway",
+        "description": "Date filed: 2020-11-20<br>Licensee: Starlink<br><br>https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.378611, -46.528889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cromwell gateway",
+        "description": "Date filed: 2020-09-21<br>Licensee: Starlink<br><br>https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [169.206111, -45.059722, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hinds gateway",
+        "description": "Date filed: 2020-11-12<br>Licensee: Starlink<br><br>https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes"
+      },
+      "geometry": { "type": "Point", "coordinates": [171.89, -43.921944, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clevedon gateway",
+        "description": "Date filed: 2020-10-28<br>Licensee: Starlink<br><br>https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.055278, -36.989722, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Hana gateway",
+        "description": "Date filed: 2020-08-18<br>Licensee: Starlink<br><br>https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.512222, -36.236944, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puwera gateway",
+        "description": "<img src=\"https://doc-0k-90-mymaps.googleusercontent.com/untrusted/hostedimage/7jgb9ngt033jui7sl38cqmov48/id0d4c5at7s14a0ijc8ticr3gg/1697329413000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/02039695818968943176/5AJ9UNGozToYyTjtw8nMakOxQs7t1RaYJ7Qc7z_t2tS4CjCGspYNlmrupteo8zQ0QTd9ktKNQ8aOS91muACkQHPXY_aXCqh4yHBSVxTwAie1jgiZi_x9bKQ68UAbS1uDbVXWSe2y_3zPMeUTqMhmgRC1TiiOz1LEueMfZP-QgY7N0YS8uzjqcZKqbCQdLomn65d51DDPF?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Date filed: 2020-11-16<br>Licensee: Starlink<br><br>https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/SelectLicencePage.wdk?showExit=Yes",
+        "gx_media_links": "https://doc-0k-90-mymaps.googleusercontent.com/untrusted/hostedimage/7jgb9ngt033jui7sl38cqmov48/id0d4c5at7s14a0ijc8ticr3gg/1697329413000/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/02039695818968943176/5AJ9UNGozToYyTjtw8nMakOxQs7t1RaYJ7Qc7z_t2tS4CjCGspYNlmrupteo8zQ0QTd9ktKNQ8aOS91muACkQHPXY_aXCqh4yHBSVxTwAie1jgiZi_x9bKQ68UAbS1uDbVXWSe2y_3zPMeUTqMhmgRC1TiiOz1LEueMfZP-QgY7N0YS8uzjqcZKqbCQdLomn65d51DDPF?session=0&fife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.300278, -35.793333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cobargo, NSW Gateway",
+        "description": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br>https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240829/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.89139, -36.388611, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torrumbarry, VIC Gateway",
+        "description": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br>https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240798/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.50012, -36.025227, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ki Ki, SA Gateway",
+        "description": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br>https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240794/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.81749, -35.57156, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cataby, WA Gateway",
+        "description": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br>https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240790/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.61951, -30.848289, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merredin, WA Gateway",
+        "description": "Antenna count: 8<br>Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Uplink: 2.5 GHz total ( 27.5-30 GHz)<br>Downlink: 1.25 GHz total (17.8-18.55, 18.8-19.3 GHz)<br>Date Authorised: 2021-04-21<br><br>https://web.acma.gov.au/rrl/licence_search.licence_lookup?pLICENCE_NO=11240787/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.27777, -31.494875, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogantungan,\u00a0QLD gateway",
+        "description": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-27<br><br>https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.29289, -23.648001, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calrossie, NSW gateway",
+        "description": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-26<br><br>https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.04001, -29.057781, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springbrook Creek, NSW gateway",
+        "description": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-24<br><br>https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.683847, -30.439794, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bulla Bulling, WA gateway",
+        "description": "Antenna diameter: 1.47m<br>Antenna manufacturer: SpaceX<br>Date authorized: 2021-5-24<br><br>https://web.acma.gov.au/rrl//site_search.site_lookup?pSITE_ID=10025575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.81982, -31.029747, 0.0]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punta Arenas gateway",
+        "description": "http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.8572222222222, -52.9381, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pudahuel gateway",
+        "description": "http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.8831194444444, -33.3927027777778, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caldera gateway",
+        "description": "http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.7878, -27.0197, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coquimbo gateway",
+        "description": "http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.2586, -29.9994, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talca gateway",
+        "description": "http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.3568, -35.556, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Saavedra gateway",
+        "description": "http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.3973, -38.8148, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Montt gateway",
+        "description": "At SpaceX Data Center 1<br><br>http://legales.elmostrador.cl/c_avisos/imagenes/EXTRACTO_02122020.pdf"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.022, -41.4866, 0.0] }
+    }
+  ]
+}

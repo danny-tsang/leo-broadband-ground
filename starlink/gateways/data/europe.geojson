@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villenave d\u2019Ornon, France",
+        "description": "Original and updated authorizations:\u00a0https://www.arcep.fr/uploads/tx_gsavis/20-0884.pdf\u00a0https://www.arcep.fr/uploads/tx_gsavis/20-1415.pdf<br><br>A local media article and location:\u00a0https://www.reddit.com/r/Starlink/comments/lym1sx/is_this_the_villenave_dornon_ground_station_in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5373232, 44.7809519, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravelines, France",
+        "description": "Original and updated authorizations:\u00a0https://www.arcep.fr/uploads/tx_gsavis/20-0765.pdf\u00a0\u00a0https://www.arcep.fr/uploads/tx_gsavis/20-1415.pdf<br><br>Subject to city approval:\u00a0https://www.bertrand-ringot.fr/gravelines-bientot-une-base-francaise-pour-les-satellites-du-geant-americain-spacex/<br><br>Guessed location:\u00a0https://www.reddit.com/r/Starlink/comments/lym1sx/is_this_the_villenave_dornon_ground_station_in/gpzv2dz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1578998, 50.9896317, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goonhilly Earth Station",
+        "description": "Date issued:\u00a001/04/2021<br>License holder:\u00a0Goonhilly Earth Station Limited<br><br>https://www.whatdotheyknow.com/request/737257/response/1763743/attach/9/Non%20Geostationary%20satellite%20earth%20stations.pdf?cookie_passthrough=1<br>https://www.ofcom.org.uk/__data/assets/pdf_file/0030/212997/starlink-internet-services-limited_redacted.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.1792983, 50.0495296, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalfont Grove",
+        "description": "Date issued:\u00a001/02/2021<br>License holder:\u00a0Arqiva Limited<br><br>https://www.whatdotheyknow.com/request/737257/response/1763743/attach/9/Non%20Geostationary%20satellite%20earth%20stations.pdf?cookie_passthrough=1<br>https://www.ofcom.org.uk/__data/assets/pdf_file/0030/212997/starlink-internet-services-limited_redacted.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5744152, 51.6145957, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usingen gateway",
+        "description": "No gateway regulatory filings are available for public inspection in Germany. The station was found by a fan.<br>https://www.reddit.com/r/Starlink/comments/msx6n0/german_ground_station_found/"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.470778, 50.329917, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aerzen gateway",
+        "description": "No gateway regulatory filings are available for public inspection in Germany. The station was found by a fan.<br><br>https://www.reddit.com/r/Starlink/comments/mx2b55/confirmation_for_ground_station_in_aerzengross/"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.328222, 52.060991, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isle of Man gateway",
+        "description": "Licensee:\u00a0STARLINK INTERNET SERVICES UK LIMITED<br>License number: 1249304/1<br>Date issued: 2021-04-14<br>No of transmitters: 1<br>Status: Live<br><br>https://www.ofcom.org.uk/spectrum/information/spectrum-information-system-sis/spectrum-information-portal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.49721111111111, 54.1390380555556, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elfordstown gateway",
+        "description": "https://www.irishexaminer.com/news/munster/arid-40298921.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.174333, 51.953111, 0.0]
+      }
+    }
+  ]
+}
